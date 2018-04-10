@@ -8,9 +8,10 @@ import './assets/stylesheets/style.css'
 /****** ADD YOUR CODE AFTER THIS LINE ******/
 
 const Hello = () => (
+  <div>
   <div>Mursut on kivoja</div>
-<div>
-  
+
+
     <iframe src="https://discordapp.com/widget?id=182029211895070720&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
   </div>
 );
