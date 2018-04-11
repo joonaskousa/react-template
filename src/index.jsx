@@ -9,9 +9,10 @@ import './assets/stylesheets/style.css'
 
 const Hello = () => (
   <div>
-  <div>Mursut on kivoja</div>
+    <h1>Onko mursut kivoja?</h1>
+  <div>Mursut on kivoja. Se on yleisesti todettu fakta.</div>
 
-
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c6/Intergalactic_walrus.png" border="5px" ></img>
     <iframe src="https://discordapp.com/widget?id=182029211895070720&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
   </div>
 );
